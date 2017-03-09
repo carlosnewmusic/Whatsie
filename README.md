@@ -1,5 +1,4 @@
 [![OS X build](https://travis-ci.org/Aluxian/Whatsie.svg?branch=staging)](https://travis-ci.org/Aluxian/Whatsie)
-+Whatsie is not available anymore. Please use the [official client](https://www.whatsapp.com/download/).
 [![Windows build](https://ci.appveyor.com/api/projects/status/6vborc92ob25kqe0/branch/staging?svg=true)](https://ci.appveyor.com/project/Aluxian/Whatsie)
 [![Linux builds](https://circleci.com/gh/Aluxian/Whatsie/tree/staging.svg?style=shield)](https://circleci.com/gh/Aluxian/Whatsie)
 [![Downloads total](https://updates.whatsie.chat/badge/downloads.svg)](https://updates.whatsie.chat/stats)
